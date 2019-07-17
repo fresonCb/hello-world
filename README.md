@@ -1,5 +1,5 @@
 # !!:!! I only use part of someone else's project for git experience
-
+# 006 Jednoduchy merge odbock <- master 
 # 005
 # 004
 # 003 pokus add
