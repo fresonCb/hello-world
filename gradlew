@@ -5,9 +5,7 @@
 ##  Gradle start up script for UN*X
 ##
 ##############################################################################
-11
-12
-13
+
 # Attempt to set APP_HOME
 # Resolve links: $0 may be a link
 PRG="$0"
@@ -29,9 +27,13 @@ cd "$SAVED" >/dev/null
 APP_NAME="Gradle"
 APP_BASE_NAME=`basename "$0"`
 
+# Add 11
 # Add 21
+# Add 12
 # Add 22
+
 # Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
+# Add 13
 # Add 23
 
 DEFAULT_JVM_OPTS='"-Xmx64m"'
