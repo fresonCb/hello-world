@@ -1,4 +1,17 @@
 # !!:!! I only use part of someone else's project for git experience
+
+# feature/HW017
+# feature/HW016
+# feature/HW015
+# feature/HW014
+# feature/HW013
+# feature/HW012
+# feature/HW010
+# feature/HW009
+# feature/HW008
+# feature/HW007
+# feature/HW006
+
 # 006 Jednoduchy merge odbock <- master 
 # 005
 # 004
